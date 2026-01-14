@@ -16,7 +16,7 @@ function tinhDiemTrungBinh(diem1, diem2, diem3) {
     if (diemTrungBinhDolphins >= 100 && diemTrungBinhDolphins > diemTrungBinhKoalas) {
       console.log("Đội Dolphins thắng với điểm trung bình là: "+diemTrungBinhDolphins);
     } else if (diemTrungBinhKoalas >= 100 && diemTrungBinhKoalas > diemTrungBinhDolphins) {
-      console.log("Đội Koalas thắng với điểm trung bình là: "+diemTrungBinhKoalas);
+      console.log("Đội Koalas thắng với điểm trung bình là:: "+diemTrungBinhKoalas);
     } else if (
       diemTrungBinhDolphins === diemTrungBinhKoalas &&
       diemTrungBinhDolphins >= 100 &&

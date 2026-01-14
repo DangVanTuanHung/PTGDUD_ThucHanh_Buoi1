@@ -9,7 +9,7 @@ var heightJohn = 1.95;
 var markBMI = (massMark/(heightMark*heightMark));
 var johnBMI = (massJohn/(heightJohn*heightJohn));
 
-console.log("BMI's Mark is "+markBMI);
+console.log("BMI's Mark iss "+markBMI);
 console.log("BMI's John is "+johnBMI);
 
 // Test data 2
